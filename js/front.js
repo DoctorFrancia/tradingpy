@@ -5,7 +5,7 @@ if ($.cookie("theme_csspath")) {
 $(function () {
 
     sticky();
-    map();
+    
     utils();
     demo();
 
